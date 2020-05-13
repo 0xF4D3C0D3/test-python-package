@@ -1,13 +1,12 @@
 [tool.poetry]
 name = "cat-and-dog"
-version = "1.0.4"
+version = "2.0.0"
 description = ""
 authors = ["Andrew, Jung DongHo <dongho971220@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "~3.6"
 requests = "^2.23.0"
-pytest = "^5.4.2"
 
 [tool.poetry.dev-dependencies]
 
