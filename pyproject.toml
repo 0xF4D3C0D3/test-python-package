@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cat_n_dog"
-version = "2.1.0"
+version = "2.1.1"
 description = ""
 authors = ["Andrew, Jung DongHo <dongho971220@gmail.com>"]
 

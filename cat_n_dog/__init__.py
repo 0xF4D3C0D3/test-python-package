@@ -1,1 +1,1 @@
-from .cat import Cat
+from .cat import cat
