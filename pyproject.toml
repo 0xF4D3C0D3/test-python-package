@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "cat_n_dog"
-version = "400.0.0"
+version = "500.0.0"
 description = ""
 authors = ["Andrew, Jung DongHo <dongho971220@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "~3.9"
+python = "^3.8"
 requests = "^2.23.0"
 
 [tool.poetry.dev-dependencies]
