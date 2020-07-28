@@ -5,7 +5,7 @@ description = ""
 authors = ["Andrew, Jung DongHo <dongho971220@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "~3.6"
+python = "~3.8"
 requests = "^2.23.0"
 
 [tool.poetry.dev-dependencies]
